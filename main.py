@@ -33,7 +33,7 @@ index = faiss.IndexFlatL2(dimension)
 metadata = []
 
 # Configure Gemini API
-genai.configure(api_key="AIzaSyAHyeFtSu-gWyLtNYpe5JFMuih1HYgIrXw")
+genai.configure(api_key="YOUR_KEY_HERE")
 model2 = genai.GenerativeModel("gemini-1.5-flash")
 # chat = model2.start_chat(
 # history=[
