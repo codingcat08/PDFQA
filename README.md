@@ -6,4 +6,4 @@
 
 #run the backend -> uvicorn main:app --reload 
 
-#run the frontend -> npm run dev 
+#run the frontend (qa-system) -> npm run dev 
