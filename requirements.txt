@@ -1,0 +1,21 @@
+fastapi
+uvicorn
+python-multipart
+PyMuPDF
+sentence-transformers
+faiss-cpu
+google-generativeai
+
+# PDF Question-Answering System
+
+This project is an interactive Question-Answering system for PDFs using FAISS for vector search and Gemini for answer generation.
+
+## Prerequisites
+- Python 3.8+
+- pip
+
+## Setup
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/your-repo-name.git
+   cd your-repo-name
